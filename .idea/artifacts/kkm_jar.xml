@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kkm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/kkm_jar</output-path>
+    <root id="archive" name="kkm.jar">
+      <element id="module-output" name="kkm" />
+      <element id="extracted-dir" path="H:/Downloads/jSSC-2.7.0-Release/jSSC-2.7.0-Release/jssc.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
